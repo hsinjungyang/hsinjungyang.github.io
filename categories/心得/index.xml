@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心得 on  My Personal Blog </title>
+    <link>https://hsinjungyang.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 心得 on  My Personal Blog </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 26 Jul 2020 08:16:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://hsinjungyang.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的第一篇文章</title>
+      <link>https://hsinjungyang.github.io/blog/test/</link>
+      <pubDate>Sun, 26 Jul 2020 08:16:00 +0800</pubDate>
+      
+      <guid>https://hsinjungyang.github.io/blog/test/</guid>
+      <description>Hello World
+我是洋洋
+一級標題 六級標題 我是洋洋，我愛唱歌
+ 洋洋  hi   hello   hello  hi   hello   bitch</description>
+    </item>
+    
+  </channel>
+</rss>
